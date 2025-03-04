@@ -10,7 +10,7 @@ Extract the tarball and perform a `make menuconfig` inside it.
 Choose the following options.
 
     Target options
-	    Target Architecture - Aarch64 (little endian)
+	    Target Architecture - AArch64 (little endian)
     Toolchain type
 	    External toolchain - Linaro AArch64
     System Configuration
